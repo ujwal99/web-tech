@@ -5,6 +5,8 @@ body{
 }
 #header-nav{
 	background-color: blue;
+	  border: 1px solid black;
+    margin-bottom: 15px;
 
 }
 .navbar-brand {
@@ -44,8 +46,8 @@ body{
 }
 
   h2{
-  	text-align: center;
-  	color: white;
+  	text-align: center ;
+  	color: white !important;
   	font-weight:bold;
   }
   #courses-tile, #food-tile, #gym-tile{
@@ -61,6 +63,7 @@ body{
 	border: 1px solid black;
 margin: 10px 20px 10px;
 padding: 7px;
+text-align: justify;
 
 }
 
